@@ -1,6 +1,6 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "Gekooktworstje",
+  "readmeUrl": "",
+  "title": "SHELL - Patrick Wildschut",
   "name": "Patrick Wildschut",
   "ascii": "liveterm",
   "social": {
@@ -11,10 +11,10 @@
   "ps1_hostname": "gekooktworstje",
   "ps1_username": "visitor",
   "repo": "https://github.com/PatrickWildschut/gekooktworstje",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "resume_url": "",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "patreon": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "colors": {
     "light": {
